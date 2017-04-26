@@ -1,11 +1,11 @@
 # Filmes preferidos da Equipe
 
-## Filmes preferidos da equipe de Ferpaiva2
+## Filmes preferidos da equipe de Paivaferando
 
-# Top gun
-# Harry Potter
-# Click
-# Panico
+# matrix
+# Superman
+# Star Wars
+# Velozes e Furiosos
 
 # Filmes preferidos do integrante 2
 
